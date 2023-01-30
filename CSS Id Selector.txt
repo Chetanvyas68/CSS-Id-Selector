@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+   #Font {
+           text-align:center;
+           background-color: yellow;
+          }
+</style>
+</head>
+<body>
+  <p id="Font">Hey</p>
+  <p>How Are You</p>
+</body>
+</html>
